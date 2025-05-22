@@ -6,3 +6,7 @@
 1b.arraylist_sublist=> solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Delete_nth.png)
 1c.linkedlist_offerlast=>solution((https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_offerlast.png)
 1c.linkedlist_get=>solution((https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_get.png)
+1c.linkedlist_swap->solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_swap.png)
+1c.linkedlist_iterator->solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_iterator.png)
+1c.linkedlist_descendingop->solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_descendingop.png)
+
