@@ -10,7 +10,7 @@
 1c.linkedlist_iterator->solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_iterator.png)
 1c.linkedlist_descendingop->solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_descendingop.png)
 2a.stringhandlingfunc=>solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/String_handling_func.png)
-2b.stringbuffera and sbuilder=>solutions()
+2b.stringbuffera and sbuilder=>solutions(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/Stringhandlingfunc/Sbuffer_builder.png)
 3a.Stringfunc->solutions(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/String_handling_func.png)
 3b.Stringnullempty->solutions(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Snull.png)
 3b.Stringpalindrome->solutions(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Spalindrome.png)
