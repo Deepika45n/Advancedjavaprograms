@@ -22,6 +22,7 @@
 3c.Stringgenerateword->solutions(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/SGenerate.png)
 3c.Stringisnumeric->solutions(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Sisnumeric.png)
 3c.Stringtruncate->solutions(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Struncate.png)
+6a.factorial=>solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/factorial/factorial.png)(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/factorial/factorial1.png)
 
 
 
