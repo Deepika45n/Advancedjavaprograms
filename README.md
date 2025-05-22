@@ -28,12 +28,12 @@
 5a.CountryList=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/countriesSelection/countrylist.png
 5b.tabbedpan1=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/tabbedpan/tabbedpan.png
 5c.countryListCapital=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/Clist2/countrycapital.png
-5d.tabbedpan2=>github.com/Deepika45n/Advancedjavaprograms/blob/main/tabbedpan2/tabbedpan2.png
+5d.tabbedpan2=>http://github.com/Deepika45n/Advancedjavaprograms/blob/main/tabbedpan2/tabbedpan2.png
 6a.factorial=>solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/factorial/factorial.png)(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/factorial/factorial1.png)
 6b.createcookie=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/createcookie/cookie.png
 6c.PrimeChecker=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/primenumber/prime.png
 7a.Session=>(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/session/session2.png)(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/session/session.png)(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/session/session3.png)
-7b.CookieManagement=>github.com/Deepika45n/Advancedjavaprograms/blob/main/cookkieservlet/cookieservelet.png
+7b.CookieManagement=>http://github.com/Deepika45n/Advancedjavaprograms/blob/main/cookkieservlet/cookieservelet.png
 8a.InsertCoffee=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/coffeeinsert/cfeinsert.png
 8b.UpdateCoffe=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/cfeupdate/cfeupdate.png
 8c.AppendEmployeeDetails=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/Addemployeedetails/appendemp.png
