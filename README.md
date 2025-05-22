@@ -3,4 +3,5 @@
 1b.arraylist_search=>             https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Al_search.png
 1b.arraylist_sort=>      https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Al_sort.png
 1b.arraylist_sublist=>      https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Al_sublist.png
+1b.arraylist_sublist=>      https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Delete_nth.png
 
