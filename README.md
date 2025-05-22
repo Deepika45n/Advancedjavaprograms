@@ -22,7 +22,26 @@
 3c.Stringgenerateword->solutions(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/SGenerate.png)
 3c.Stringisnumeric->solutions(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Sisnumeric.png)
 3c.Stringtruncate->solutions(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Struncate.png)
+4a.Helloprogram=>solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/welcomeSwing/swingdisplay.png)
+4b.Eventhandling=>solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/eventhandling/countrydisplay.png)
+4c.DigitalClock=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/digitalclock/dgclock.png
+5a.CountryList=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/countriesSelection/countrylist.png
+5b.tabbedpan1=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/tabbedpan/tabbedpan.png
+5c.countryListCapital=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/Clist2/countrycapital.png
+5d.tabbedpan2=>github.com/Deepika45n/Advancedjavaprograms/blob/main/tabbedpan2/tabbedpan2.png
 6a.factorial=>solution(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/factorial/factorial.png)(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/factorial/factorial1.png)
+6b.createcookie=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/createcookie/cookie.png
+6c.PrimeChecker=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/primenumber/prime.png
+7a.Session=>(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/session/session2.png)(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/session/session.png)(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/session/session3.png)
+7b.CookieManagement=>github.com/Deepika45n/Advancedjavaprograms/blob/main/cookkieservlet/cookieservelet.png
+8a.InsertCoffee=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/coffeeinsert/cfeinsert.png
+8b.UpdateCoffe=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/cfeupdate/cfeupdate.png
+8c.AppendEmployeeDetails=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/Addemployeedetails/appendemp.png
+8d.updateEmployeeDetails=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/updateemp/updateemp.png
+9a.DeleteCoffedb=(https://github.com/Deepika45n/Advancedjavaprograms/blob/main/cookkieservlet/cookieservelet.png)
+9b.coffestartsD=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/cfestartsD/cfeD.png
+9c.AddEmplpoyeedeatils=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/insertemp/insertemp.png
+9dDeleteEmployeeDetails=>https://github.com/Deepika45n/Advancedjavaprograms/blob/main/cookkieservlet/cookieservelet.png
 
 
 
