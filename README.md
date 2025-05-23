@@ -1,25 +1,45 @@
 # Advanced Java Programs Solutions
 
-## List Operations
-- **List Operations**: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/listoperations.png)
-- **ArrayList Operations**:
-  - Remove Operation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/alremove.png)
-  - Search Operation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Al_search.png)
-  - Sort Operation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Al_sort.png)
-  - Sublist Operation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Al_sublist.png)
-  - Delete nth Element: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Delete_nth.png)
-
-## LinkedList Operations
-- Offer Last: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_offerlast.png)
-- Get Operation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_get.png)
-- Swap Elements: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_swap.png)
-- Iterator Usage: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_iterator.png)
-- Descending Order Operations: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_descendingop.png)
-
-## String Handling
+- List Operations: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/listoperations.png)
+- ArrayList Remove Operation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/alremove.png)
+- ArrayList Search Operation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Al_search.png)
+- ArrayList Sort Operation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Al_sort.png)
+- ArrayList Sublist Operation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Al_sublist.png)
+- ArrayList Delete nth Element: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/arraylist_programs/Delete_nth.png)
+- LinkedList Offer Last: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_offerlast.png)
+- LinkedList Get Operation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_get.png)
+- LinkedList Swap Elements: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_swap.png)
+- LinkedList Iterator Usage: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_iterator.png)
+- LinkedList Descending Order Operations: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/list_demo/linkedlist_demo/Ll_descendingop.png)
 - String Handling Functions: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/String_handling_func.png)
 - String Buffer & Builder: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/Stringhandlingfunc/Sbuffer_builder.png)
-
-## More Sections...
-
-_(Continue the organization in a similar fashion)_
+- String Null or Empty Check: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Snull.png)
+- String Palindrome Check: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Spalindrome.png)
+- String Remove Whitespace: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Sremovewhitespace.png)
+- String Reverse: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/SReverse.png)
+- String Count Occurrences: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Contoccurence.png)
+- String Capitalize: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Scapitalize.png)
+- String Count Words: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Scountwords.png)
+- String Generate Word: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/SGenerate.png)
+- String Is Numeric Check: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Sisnumeric.png)
+- String Truncate: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/string%20operations/Struncate.png)
+- Hello Program in Swing: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/welcomeSwing/swingdisplay.png)
+- Event Handling Example: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/eventhandling/countrydisplay.png)
+- Digital Clock Example: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/digitalclock/dgclock.png)
+- Country List: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/countriesSelection/countrylist.png)
+- Tabbed Panel 1: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/tabbedpan/tabbedpan.png)
+- Country List & Capital: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/Clist2/countrycapital.png)
+- Tabbed Panel 2: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/tabbedpan2/tabbedpan2.png)
+- Factorial Calculation: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/factorial/factorial.png), [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/factorial/factorial1.png)
+- Create Cookie Example: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/createcookie/cookie.png)
+- Prime Number Checker: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/primenumber/prime.png)
+- Session Handling Examples: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/session/session2.png), [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/session/session.png), [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/session/session3.png)
+- Cookie Management: [Solution](http://github.com/Deepika45n/Advancedjavaprograms/blob/main/cookkieservlet/cookieservelet.png)
+- Insert Coffee Record: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/coffeeinsert/cfeinsert.png)
+- Update Coffee Record: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/cfeupdate/cfeupdate.png)
+- Append Employee Details: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/Addemployeedetails/appendemp.png)
+- Update Employee Details: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/updateemp/updateemp.png)
+- Delete Coffee from DB: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/cookkieservlet/cookieservelet.png)
+- Coffee Starts D: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/cfestartsD/cfeD.png)
+- Add Employee Details: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/insertemp/insertemp.png)
+- Delete Employee Details: [Solution](https://github.com/Deepika45n/Advancedjavaprograms/blob/main/cookkieservlet/cookieservelet.png)
